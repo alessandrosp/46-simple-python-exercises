@@ -30,18 +30,19 @@ A collection of 46 simple (and less simple) Python exercises. The exercises have
 
 1. Define a procedure histogram() that takes a list of integers and prints a histogram to the screen. For example, histogram([4, 9, 7]) should print the following:
 
-```****
+```
+****
 *********
 *******
 ```
 
-1. The function max() from exercise 1) and the function max_of_three() from exercise 2) will only work for two and three numbers, respectively. But suppose we have a much larger number of numbers, or suppose we cannot tell in advance how many they are? Write a function max_in_list() that takes a list of numbers and returns the largest one.
+13. The function max() from exercise 1) and the function max_of_three() from exercise 2) will only work for two and three numbers, respectively. But suppose we have a much larger number of numbers, or suppose we cannot tell in advance how many they are? Write a function max_in_list() that takes a list of numbers and returns the largest one.
 
 1. Write a program that maps a list of words into a list of integers representing the lengths of the correponding words.
 
 1. Write a function find_longest_word() that takes a list of words and returns the length of the longest one.
 
-Write a function filter_long_words() that takes a list of words and an integer n and returns the list of words that are longer than n.
+1. Write a function filter_long_words() that takes a list of words and an integer n and returns the list of words that are longer than n.
 
 Write a version of a palindrome recognizer that also accepts phrase palindromes such as "Go hang a salami I'm a lasagna hog.", "Was it a rat I saw?", "Step on no pets", "Sit on a potato pan, Otis", "Lisa Bonet ate no basil", "Satan, oscillate my metallic sonatas", "I roamed under it as a tired nude Maori", "Rise to vote sir", or the exclamation "Dammit, I'm mad!". Note that punctuation, capitalization, and spacing are usually ignored.
 
