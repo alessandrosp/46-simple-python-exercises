@@ -39,7 +39,7 @@ A collection of 46 simple (and less simple) Python exercises. The exercises have
 
 1. Write a program that maps a list of words into a list of integers representing the lengths of the correponding words.
 
-Write a function find_longest_word() that takes a list of words and returns the length of the longest one.
+1. Write a function find_longest_word() that takes a list of words and returns the length of the longest one.
 
 Write a function filter_long_words() that takes a list of words and an integer n and returns the list of words that are longer than n.
 
