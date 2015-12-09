@@ -30,9 +30,10 @@ A collection of 46 simple (and less simple) Python exercises. The exercises have
 
 1. Define a procedure histogram() that takes a list of integers and prints a histogram to the screen. For example, histogram([4, 9, 7]) should print the following:
 
-    ****
-    *********
-    *******
+```****
+*********
+*******
+```
 
 1. The function max() from exercise 1) and the function max_of_three() from exercise 2) will only work for two and three numbers, respectively. But suppose we have a much larger number of numbers, or suppose we cannot tell in advance how many they are? Write a function max_in_list() that takes a list of numbers and returns the largest one.
 
