@@ -1,4 +1,4 @@
-# Exercise 22: http://www.ling.gu.se/~lager/python_exercises.html
+# Exercise 23: http://www.ling.gu.se/~lager/python_exercises.html
 def correct(sentence):
     '''A function that takes a string and sees to it that 1) two or more 
        occurrences of the space character is compressed into one, 
