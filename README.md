@@ -1,6 +1,6 @@
 # 46 Simple Python Exercises
 
-A collection of 46 simple (and less simple) Python exercises. The exercises have been written, found and collected by [Torbjörn Lager](http://www.ling.gu.se/~lager/python_exercises.html) (torbjorn.lager@ling.gu.se).
+A collection of 46 simple (and less simple) Python exercises. The exercises have been written, found and collected by [Torbjörn Lager](http://www.ling.gu.se/~lager/python_exercises.html) (torbjorn.lager@ling.gu.se). In this repository you can find my solutions to such exercises. For any question, comment or feedback feel free to drop me a line [on Twitter](https://twitter.com/annoys_parrot). 
 
 # The Exercises
 
@@ -63,7 +63,7 @@ Your task here is write a Python program capable of generating all the verses of
 
 21\. Write a function char_freq() that takes a string and builds a frequency listing of the characters contained in it. Represent the frequency listing as a Python dictionary. Try it with something like char_freq("abbabcbdbabdbdbabababcbcbab").
 
-22\. In cryptography, a Caesar cipher is a very simple encryption techniques in which each letter in the plain text is replaced by a letter some fixed number of positions down the alphabet. For example, with a shift of 3, A would be replaced by D, B would become E, and so on. The method is named after Julius Caesar, who used it to communicate with his generals. ROT-13 ("rotate by 13 places") is a widely used example of a Caesar cipher where the shift is 13. In Python, the key for ROT-13 may be represented by means of the following dictionary:
+22\. In cryptography, a *Caesar cipher* is a very simple encryption techniques in which each letter in the plain text is replaced by a letter some fixed number of positions down the alphabet. For example, with a shift of 3, A would be replaced by D, B would become E, and so on. The method is named after Julius Caesar, who used it to communicate with his generals. *ROT-13* ("rotate by 13 places") is a widely used example of a Caesar cipher where the shift is 13. In Python, the key for ROT-13 may be represented by means of the following dictionary:
 
 ```
 key = {'a':'n', 'b':'o', 'c':'p', 'd':'q', 'e':'r', 'f':'s', 'g':'t', 'h':'u', 
