@@ -1,4 +1,4 @@
-# Exercise 17: http://www.ling.gu.se/~lager/python_exercises.html
+# Exercise 32: http://www.ling.gu.se/~lager/python_exercises.html
 import string
 
 def reverse(to_reverse):
