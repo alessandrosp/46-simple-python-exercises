@@ -6,7 +6,7 @@ A collection of 46 simple (and less simple) Python exercises. The exercises have
 
 ## Very simple exercises
 
-1. Define a function max() that takes two numbers as arguments and returns the largest of them. Use the if-then-else construct available in Python. (It is true that Python has the max() function built in, but writing it yourself is nevertheless a good exercise.)
+\1. Define a function max() that takes two numbers as arguments and returns the largest of them. Use the if-then-else construct available in Python. (It is true that Python has the max() function built in, but writing it yourself is nevertheless a good exercise.)
 
 1. Define a function max_of_three() that takes three numbers as arguments and returns the largest of them.
 
@@ -36,9 +36,9 @@ A collection of 46 simple (and less simple) Python exercises. The exercises have
 *******
 ```
 
-13. The function max() from exercise 1) and the function max_of_three() from exercise 2) will only work for two and three numbers, respectively. But suppose we have a much larger number of numbers, or suppose we cannot tell in advance how many they are? Write a function max_in_list() that takes a list of numbers and returns the largest one.
+13\. The function max() from exercise 1) and the function max_of_three() from exercise 2) will only work for two and three numbers, respectively. But suppose we have a much larger number of numbers, or suppose we cannot tell in advance how many they are? Write a function max_in_list() that takes a list of numbers and returns the largest one.
 
-1. Write a program that maps a list of words into a list of integers representing the lengths of the correponding words.
+14/. Write a program that maps a list of words into a list of integers representing the lengths of the correponding words.
 
 1. Write a function find_longest_word() that takes a list of words and returns the length of the longest one.
 

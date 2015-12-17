@@ -1,0 +1,15 @@
+There are 9 palindromes in this text file
+This is clearly not a palindrome
+The next string, however, it is
+Go hang a salami I'm a lasagna hog.
+And so are the next two, check:
+Was it a rat I saw?
+Step on no pets
+I am not a palindrome
+But the next lines all are
+Sit on a potato pan, Otis
+Lisa Bonet ate no basil
+Satan, oscillate my metallic sonatas
+I roamed under it as a tired nude Maori
+Rise to vote sir
+Dammit, I'm mad!
